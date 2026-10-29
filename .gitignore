@@ -1,0 +1,15 @@
+node_modules/
+generated-configs/
+downloads/
+server-data/
+credentials.json
+token.json
+*oauth*.json
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+client_secret*.json
+gcp-oauth.keys.json
+.codex/
